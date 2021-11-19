@@ -1,0 +1,31 @@
+{
+  "name": "react-native-background-pedometer",
+  "version": "0.0.1",
+  "description": "React Native background/foreground pedometer. This is a based on @t2tx/react-native-universal-pedometer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:byvan/react-native-background-pedometer.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "background",
+    "foreground",
+    "pedometer"
+  ],
+  "author": "byvan <byvanis@gmail.com>",
+  "license": "MIT",
+  "types": "./lib/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/byvan/react-native-background-pedometer/issues"
+  },
+  "homepage": "https://github.com/byvan/react-native-background-pedometer#readme",
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  },
+  "private": false
+}
